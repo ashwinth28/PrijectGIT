@@ -25,6 +25,15 @@ public class Git1 {
 	private void method3() {
 		System.out.println("6");
 	}
+	
+	private void method3() {
+		System.out.println("7");
+	}
+
+	private void method3() {
+		System.out.println("8");
+	}
+
 
 	
 }
