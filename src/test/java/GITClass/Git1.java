@@ -13,6 +13,18 @@ public class Git1 {
 	private void method3() {
 		System.out.println("3");
 	}
+	
+	private void method3() {
+		System.out.println("4");
+	}
+	
+	private void method3() {
+		System.out.println("5");
+	}
+	
+	private void method3() {
+		System.out.println("6");
+	}
 
 	
 }
