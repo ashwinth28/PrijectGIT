@@ -34,4 +34,8 @@ public class Git1 {
 		System.out.println("8");
 	}
 	
+	private void method9() {
+		System.out.println("9");
+	}
+	
 }
